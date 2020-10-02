@@ -25,7 +25,7 @@
                 <sonar.login>govinda</sonar.login>
 		<sonar.password>govinda</sonar.password>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
+		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding
 	</properties>
 
 	<dependencies>
